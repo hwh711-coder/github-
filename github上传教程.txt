@@ -1,0 +1,11 @@
+用户名：Hwh711-coder
+邮箱：hwh347295472@gmail.com
+密码：hwh150711
+
+1. 先在github建立新的repository
+2. 复制repository连接
+3. 终端移动到要上传的文件所在文件夹，输入
+$ git init 	-> 形成本地库
+4. 查看本地库里的内容
+$ git status
+5.
